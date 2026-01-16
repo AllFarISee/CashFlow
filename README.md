@@ -1,16 +1,18 @@
-# moneytrack
+# 💰 CashFlow App
 
-A new Flutter project.
+CashFlow adalah aplikasi pencatatan keuangan sederhana yang membantu pengguna mengelola **pemasukan dan pengeluaran harian** secara praktis. Aplikasi ini dirancang dengan tampilan yang simpel dan mudah digunakan untuk memantau arus kas pribadi.
 
-## Getting Started
+## ✨ Fitur Utama
+- ➕ Menambahkan transaksi pemasukan dan pengeluaran
+- 📂 Kategori transaksi (misalnya: Makan, Transportasi, Sedekah, dll)
+- 📅 Pencatatan transaksi berdasarkan tanggal
+- 🔄 Toggle pemasukan & pengeluaran
+- 🗑️ Edit dan hapus transaksi
+- 💾 Penyimpanan data secara lokal (local database)
 
-This project is a starting point for a Flutter application.
+## 🛠️ Teknologi yang Digunakan
+- **Flutter** – Framework UI
+- **Dart** – Bahasa
+- **Drift / SQLite** – Local database
+- **Material Design** – UI components
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
