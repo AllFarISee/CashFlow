@@ -26,9 +26,9 @@ Berikut adalah beberapa tampilan dari aplikasi **CashFlow**:
 ### ➕ Tambah Transaksi
 <img width="256" height="453" alt="Add Transaction" src="https://github.com/user-attachments/assets/d628aa65-639e-4e16-abdb-4bd9f3847b89" />
 
-
 ### 📂 Pilih Kategori
-![Category Screen](screenshots/category.png)
+<img width="252" height="454" alt="Categories" src="https://github.com/user-attachments/assets/ed6aa168-0146-488b-a6e9-154bf4144a0d" />
+<img width="255" height="454" alt="Categories 2" src="https://github.com/user-attachments/assets/80b645f2-57bc-4c94-b23a-8e11285ab958" />
 
 ### ✏️ Edit Transaksi
 ![Edit Transaction](screenshots/edit_transaction.png)
