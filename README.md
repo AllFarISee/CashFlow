@@ -11,7 +11,7 @@ secara terstruktur dan mudah digunakan.
 - NIM: {23552011180}
 - Kelas : {TIF K 23B}
 
-## Fitur Utama
+## ⭐ Fitur Utama
 - ➕ Menambahkan transaksi pemasukan dan pengeluaran
 - 📂 Kategori transaksi (misalnya: Makan, Transportasi, Sedekah, dll)
 - 📅 Pencatatan transaksi berdasarkan tanggal
@@ -19,7 +19,7 @@ secara terstruktur dan mudah digunakan.
 - 🗑️ Edit dan hapus transaksi
 - 💾 Penyimpanan data secara lokal (local database)
 
-## Teknologi yang Digunakan
+## 🛠️ Teknologi yang Digunakan
 - **Flutter** – Framework UI
 - **Dart** – Bahasa
 - **Drift / SQLite** – Local database
