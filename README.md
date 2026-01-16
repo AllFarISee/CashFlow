@@ -18,7 +18,7 @@ CashFlow adalah aplikasi pencatatan keuangan sederhana yang membantu pengguna me
 
 ## 📸 Screenshot Aplikasi
 
-Berikut adalah beberapa tampilan dari aplikasi **CashFlow**:
+tampilan UI dari aplikasi **CashFlow**:
 
 ### 🏠 Halaman Utama
 <img width="254" height="454" alt="Home" src="https://github.com/user-attachments/assets/0d4b4ca2-a899-4862-bed4-991fca07328a" />
@@ -29,6 +29,7 @@ Berikut adalah beberapa tampilan dari aplikasi **CashFlow**:
 ### 📂 Pilih Kategori
 <img width="252" height="454" alt="Categories" src="https://github.com/user-attachments/assets/ed6aa168-0146-488b-a6e9-154bf4144a0d" />
 <img width="255" height="454" alt="Categories 2" src="https://github.com/user-attachments/assets/80b645f2-57bc-4c94-b23a-8e11285ab958" />
+<img width="255" height="454" alt="Categories 3" src="https://github.com/user-attachments/assets/1a93feea-e26d-4877-b60a-64696811252c" />
 
-### ✏️ Edit Transaksi
-![Edit Transaction](screenshots/edit_transaction.png)
+### ✏️ Edit & Delete Transaksi
+<img width="252" height="454" alt="Edit" src="https://github.com/user-attachments/assets/67d7b0c3-07d8-4a06-8e6f-00eea8877b60" />
