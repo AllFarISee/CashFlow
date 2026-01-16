@@ -5,6 +5,12 @@ arus kas pribadi (personal finance). Aplikasi ini membantu pengguna memahami
 kebiasaan finansial mereka melalui pencatatan pemasukan dan pengeluaran
 secara terstruktur dan mudah digunakan.
 
+### Profile
+
+- Nama: {Alfarisi Azhar}
+- NIM: {23552011180}
+- Kelas : {TIF K 23B}
+
 ## Fitur Utama
 - ➕ Menambahkan transaksi pemasukan dan pengeluaran
 - 📂 Kategori transaksi (misalnya: Makan, Transportasi, Sedekah, dll)
