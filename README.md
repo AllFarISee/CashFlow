@@ -1,6 +1,9 @@
 # 💰 CashFlow App
 
-CashFlow adalah aplikasi pencatatan keuangan sederhana yang membantu pengguna mengelola **pemasukan dan pengeluaran harian** secara praktis. Aplikasi ini dirancang dengan tampilan yang simpel dan mudah digunakan untuk memantau arus kas pribadi.
+CashFlow adalah aplikasi mobile berbasis Flutter yang berfokus pada pencatatan
+arus kas pribadi (personal finance). Aplikasi ini membantu pengguna memahami
+kebiasaan finansial mereka melalui pencatatan pemasukan dan pengeluaran
+secara terstruktur dan mudah digunakan.
 
 ## Fitur Utama
 - ➕ Menambahkan transaksi pemasukan dan pengeluaran
@@ -15,6 +18,22 @@ CashFlow adalah aplikasi pencatatan keuangan sederhana yang membantu pengguna me
 - **Dart** – Bahasa
 - **Drift / SQLite** – Local database
 - **Material Design** – UI components
+
+## 🏗️ Arsitektur Aplikasi
+
+Aplikasi CashFlow menggunakan pendekatan arsitektur sederhana dengan pemisahan
+tanggung jawab yang jelas antara UI, logic, dan data:
+
+- **Presentation Layer** → Screens & Widgets
+- **Business Logic** → State & Controller
+- **Data Layer** → Drift (SQLite ORM)
+
+## 🧪 Implementasi CRUD
+
+- **Create** → Tambah transaksi baru
+- **Read** → Menampilkan daftar transaksi
+- **Update** → Edit data transaksi
+- **Delete** → Hapus transaksi
 
 ## 📸 Screenshot Aplikasi
 
